@@ -1,0 +1,19 @@
+{
+  "name": "jsIBAN",
+  "main": "jsIBAN.js",
+  "version": "0.1.0",
+  "description": "Javascript IBAN helper",
+  "keywords": [
+    "iban",
+    "helper",
+    "js",
+    "javascript",
+    "bank",
+    "account"
+  ],
+  "authors": [
+    "Marcos Gómez Vilches <marcos@gesdinet.com>"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.gesdinet.com"
+}
