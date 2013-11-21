@@ -13,7 +13,7 @@ Execute next command:
 
 ### Clone from Github
 
-```git clone asds .```
+```git clone git://github.com/markitosgv/jsIBAN.git .```
 
 ## Setup
 
