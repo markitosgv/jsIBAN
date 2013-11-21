@@ -19,7 +19,7 @@ Execute next command:
 
 Include jsIBAN.js in your webpage:
 
-```javascript
+```html
 <script src="jsIBAN.js"></script>
 ```
 
